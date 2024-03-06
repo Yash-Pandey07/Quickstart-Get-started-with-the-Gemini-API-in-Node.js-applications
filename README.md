@@ -1,2 +1,1 @@
-# -Build-an-AI-Code-Buddy
- Using Google's AI model and the Gemini API to build an AI chatbot using Gemini.
+This quickstart demonstrates how to access the Gemini API for your Node.js application using the Google AI JavaScript SDK.
