@@ -1,0 +1,18 @@
+{
+  "name": "-build-an-ai-code-buddy",
+  "version": "1.0.0",
+  "description": "Using Google's AI model and the Gemini API to build an AI chatbot using Gemini.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.2.1",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.1.0"
+  }
+}
